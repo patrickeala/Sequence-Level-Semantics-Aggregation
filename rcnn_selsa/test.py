@@ -7,7 +7,7 @@
 # Modified by Yuwen Xiong
 # Modified by Haiping Wu
 # --------------------------------------------------------
-#ADDING TEST
+
 import _init_paths
 
 import cv2
