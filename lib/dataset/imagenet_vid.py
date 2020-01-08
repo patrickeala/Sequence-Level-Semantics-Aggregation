@@ -4,8 +4,7 @@
 # Licensed under The Apache-2.0 License [see LICENSE for details]
 # Written by Shuhao Fu, Yuqing Zhu, Xizhou Zhu
 # Modified by Haiping Wu
-# --------------------------------------------------------
-
+# #
 """
 ImageNet VID database
 This class loads ground truth notations from standard ImageNet VID XML data formats
